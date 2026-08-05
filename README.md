@@ -1,114 +1,100 @@
-<h1 align="center">🚀 Ryan Marcos</h1>
+# 👋 Olá, eu sou o Ryan Marcos
 
-<p align="center">
-💻 Estudante de Tecnologia da Informação <br>
-🔥 Desenvolvedor Web em evolução
-</p>
-
-<p align="center">
-<a href="https://github.com/Ryan1234577">
-<img src="https://img.shields.io/github/followers/Ryan1234577?label=Seguidores&style=social">
-</a>
-<a href="https://github.com/Ryan1234577">
-<img src="https://img.shields.io/github/stars/Ryan1234577?affiliations=OWNER&style=social">
-</a>
-</p>
+💻 Estudante de Tecnologia da Informação  
+🎯 Focado em Desenvolvimento Web e Suporte Técnico  
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de Gestão da Tecnologia da Informação (FATEC)  
-🎓 Técnico em Tecnologia da Informação (SENAC)  
+Sou estudante de Gestão da Tecnologia da Informação (FATEC) e Técnico em TI (SENAC), com foco em desenvolvimento web.
 
-💡 Apaixonado por tecnologia, com foco em **Desenvolvimento Web** e **Suporte Técnico**.
+Tenho experiência prática desenvolvendo aplicações completas, incluindo:
 
-🚀 Experiência prática criando sistemas completos com:
-- Login e autenticação 🔐  
-- CRUD completo 📊  
-- Integração com banco de dados 🗄️  
-- Painéis administrativos ⚙️  
+- Autenticação de usuários  
+- CRUD com integração em banco de dados  
+- Estruturação de sistemas com PHP e MySQL  
+- Criação de interfaces com HTML, CSS e JavaScript  
 
-🔥 Também atuo em eventos de grande porte, desenvolvendo:
-- Comunicação
-- Trabalho sob pressão
-- Organização
-- Atendimento ao público
+Além da área técnica, atuo como freelancer em eventos de grande porte, o que desenvolveu minhas habilidades em:
 
-🎯 **Objetivo:** conquistar uma oportunidade de estágio ou posição júnior em TI.
+- Comunicação  
+- Organização  
+- Trabalho sob pressão  
+- Atendimento ao público  
+
+📌 Atualmente busco uma oportunidade de estágio ou posição inicial em TI.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js" />
-</p>
+- PHP  
+- MySQL  
+- HTML  
+- CSS  
+- JavaScript  
 
 ---
 
 ## ⚙️ Ferramentas
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
+- GitHub  
+- VS Code  
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-### 🏋️ Sistema Acesso Fit
-Sistema de gestão para academias
+### Sistema Acesso Fit
+Sistema web de gestão para academias.
 
-✔️ Autenticação de usuários  
-✔️ Painel administrativo  
-✔️ CRUD completo  
-✔️ Banco de dados integrado  
+- Login e autenticação de usuários  
+- Painel administrativo  
+- CRUD completo  
+- Integração com banco de dados  
 
-**Stack:** PHP • MySQL • HTML • CSS • JavaScript  
-
----
-
-### 🔧 ServiceHub
-Plataforma de conexão entre clientes e profissionais
-
-✔️ Cadastro de usuários  
-✔️ Solicitação de serviços  
-✔️ Controle administrativo  
-✔️ Estrutura MVC  
-
-**Stack:** PHP (PDO) • MySQL • JavaScript  
+Tecnologias: PHP, MySQL, HTML, CSS e JavaScript  
 
 ---
 
-## 📊 Estatísticas do GitHub
+### ServiceHub
+Plataforma web de conexão entre clientes e prestadores de serviço.
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ryan1234577&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan1234577&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+- Cadastro e gerenciamento de usuários  
+- Solicitação de serviços  
+- Estrutura com controle de acesso  
+- Organização em padrão MVC básico  
+
+Tecnologias: PHP (PDO), MySQL e JavaScript  
+
+---
+
+## 💼 Experiência
+
+**Freelancer — Eventos e grandes públicos**
+
+- Organização de fluxo de pessoas  
+- Atendimento ao público em alta demanda  
+- Apoio em controle de acesso  
+- Comunicação com equipe operacional  
 
 ---
 
 ## 📫 Contato
 
-📱 WhatsApp: (11) 97631-8140  
 📧 Email: ryanmarcosdasilvacosta@gmail.com  
+📱 WhatsApp: (11) 97631-8140  
 
 🔗 GitHub: https://github.com/Ryan1234577  
 🔗 LinkedIn: https://linkedin.com/in/ryan-silva-203161306  
 
 ---
 
-## 💡 Soft Skills
+## 🎯 Objetivo
 
-✔️ Comunicação  
-✔️ Trabalho em equipe  
-✔️ Organização  
-✔️ Atendimento ao público  
+Iniciar minha carreira na área de Tecnologia da Informação, aplicando meus conhecimentos em desenvolvimento e evoluindo continuamente como profissional.
 
 ---
 
-<p align="center">
-✨ Obrigado por visitar meu perfil! ✨
-</p>
+⭐ Obrigado por visitar meu perfil.
